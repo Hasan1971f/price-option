@@ -3,6 +3,7 @@
 import './App.css'
 import LineChart from './Components/LineChart/LineChart'
 import NavBar from './Components/NavBar/NavBar'
+import Phones from './Components/Phones/Phones'
 import Priceoptions from './Components/Priceoptions/Priceoptions'
 // import DaiayNav from './Components/DaisyNav/DaiayNav'
 
@@ -18,7 +19,8 @@ function App() {
 
       <Priceoptions></Priceoptions>
       <LineChart></LineChart>
-
+      <Phones></Phones>
+     
      
 
 
